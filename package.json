@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "gen:api": "./bin/goctl api ts --api=./gateway.api --dir=./api --webapi=./client --caller=client"
+  }
+}
